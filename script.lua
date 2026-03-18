@@ -1,0 +1,4 @@
+-- Credits:
+-- Made by chris12089
+-- UI Library based on Elerium and Icons from Lucide
+-- This file was protected using Luraph Obfuscator [https://lura.ph/]
